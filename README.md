@@ -1,5 +1,5 @@
 # Pytorch Basiscs
 
-# This repo contains introduction to pytorch
+This repo contains introduction to pytorch
 
 
